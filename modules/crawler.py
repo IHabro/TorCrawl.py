@@ -1,4 +1,9 @@
 #!/usr/bin/python
+
+# Originally from TorCrawl.py by MikeMeliz (https://github.com/MikeMeliz/TorCrawl.py)
+# Modified by Vojtěch Habrnal, 2025–2026, as part of diploma thesis
+# Licensed under GNU GPLv3
+
 import http.client
 import os
 import re
