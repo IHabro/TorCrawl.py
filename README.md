@@ -4,6 +4,15 @@
   Author: MikeMeliz
   -->
 
+## Attribution
+
+This project is a fork of [TorCrawl.py](https://github.com/MikeMeliz/TorCrawl.py) by Mikemeliz, licensed under GPLv3.
+
+### Modified files
+- `modules/crawler.py` — 
+- `modules/export.py` — 
+- `torcrawl.py` — 
+
 <div align="center">
   
   <img width="50%" alt="TorCrawl.py Logo" src=".github/torcrawl.svg">
